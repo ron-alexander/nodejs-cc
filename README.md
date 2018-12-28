@@ -1,0 +1,1 @@
+test application build for NodeJS
