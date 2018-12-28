@@ -1,0 +1,19 @@
+{
+"name": "nodejs-demo",
+"version": "0.0.1",
+"description": "Node.js demo application for OpenShift Contaoner Platform",
+"main": "server.js",
+"dependencies": {
+"express": "*",
+"ejs": "*"
+},
+"engine": {
+"node": "*",
+"npm": "*"
+},
+"scripts": {
+"start": "node server.js"
+},
+"author": "",
+"license": ""
+}
